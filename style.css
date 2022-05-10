@@ -16,13 +16,13 @@ body {
 }
 
 .large_pizza {
-    background-color: burlywood;
+    background-color: red;
 
 
 }
 
 .medium_pizza {
-    background-color: burlywood;
+    background-color: tomato;
 
 }
 
@@ -32,7 +32,7 @@ body {
 }
 
 .contact_us {
-    background-color: blue;
+    background-color: olivedrab;
     border: 3px solid violet;
     padding: 1em;
     border-radius: 1em;
